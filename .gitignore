@@ -1,0 +1,10 @@
+# Ignorar entornos virtuales
+.venv/
+venv/
+__pycache__/
+
+# Ignorar base de datos y archivos temporales
+sent.db
+*.log
+*.tmp
+*.bak
